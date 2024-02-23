@@ -1,1 +1,1 @@
-#Tugas Git Stechoq Kelompok 5
+# Tugas Git Stechoq Kelompok 5
